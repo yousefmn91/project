@@ -4,7 +4,7 @@ v= set ('aaeiou')
 
 f = v.intersection(set (w))
 
-for vowel in found:
+for vowel in f:
     print (vowel)
     
     
